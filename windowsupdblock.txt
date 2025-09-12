@@ -1,361 +1,181 @@
-	mobile.events.data.microsoft.com	
-	
-	
-	
-	download.windowsupdate.com	
-	
-	
-	
-	v10.events.data.microsoft.com	
-	
-	
-	
-	settings-win.data.microsoft.com	
-	
-	
-	
-	tsfe.trafficshaping.dsp.mp.microsoft.com	
-	
-	
-	
-	download.gfe.nvidia.com	
-	
-	
-	
-	services.gfe.nvidia.com	
-	
-	
-	
-	vortex.data.microsoft.com	
-	
-	
-	
-	displaycatalog.mp.microsoft.com	
-	
-	
-	
-	targetednotifications-tm.trafficmanager.net	
-	
-	
-	
-	watson.events.data.microsoft.com	
-	
-	
-	
-	wdcp.microsoft.com	
-	
-	
-	
-	2.tlu.dl.delivery.mp.microsoft.com	
-	
-	
-	
-	array803.prod.do.dsp.mp.microsoft.com	
-	
-	
-	
-	au.download.windowsupdate.com	
-	
-	
-	
-	az667904.vo.msecnd.net	
-	
-	
-	
-	aka.ms	
-	
-	
-	
-	array519.prod.do.dsp.mp.microsoft.com	
-	
-	
-	
-	cp501.prod.do.dsp.mp.microsoft.com	
-	
-	
-	
-	default.exp-tas.com	
-	
-	
-	
-	disc501.prod.do.dsp.mp.microsoft.com	
-	
-	
-	
-	tlu.dl.delivery.mp.microsoft.com	
-	
-	
-	
-	kv801.prod.do.dsp.mp.microsoft.com	
-	
-	
-	
-	cp801.prod.do.dsp.mp.microsoft.com	
-	
-	
-	
-	disc801.prod.do.dsp.mp.microsoft.com	
-	
-	
-	
-	fe2cr.update.microsoft.com	
-	
-	
-	
-	geover.prod.do.dsp.mp.microsoft.com	
-	
-	
-	
-	licensing.mp.microsoft.com	
-	
-	
-	
-	(\.|^)resources\.office\.net$	
-	
-	
-	
-	(\.|^)prod\.do\.dsp\.mp\.microsoft\.com$	
-	
-	
-	
-	(\.|^)events\.data\.microsoft\.com$	
-	
-	
-	
-	(\.|^)update\.microsoft\.com$	
-	
-	
-	
-	(\.|^)c2r\.ts\.cdn\.office\.net$	
-	
-	
-	
-	(\.|^)ctldl\.windowsupdate\.com$	
-	
-	
-	
-	(\.|^)officeclient\.microsoft\.com$	
-	
-	
-	
-	(\.|^)ecs\.office\.com$	
-	
-	
-	
-	(\.|^)api\.iris\.microsoft\.com$	
-	
-	
-	
-	oneclient.sfx.ms	
-	
-	
-	
-	(\.|^)wdcpalt\.microsoft\.com$	
-	
-	
-	
-	www.msftconnecttest.com	
-	
-	
-	
-	ocsp.verisign.com	
-	
-	
-	
-	storeedgefd.dsx.mp.microsoft.com	
-	
-	
-	
-	mrodevicemgr.officeapps.live.com	
-	
-	
-	
-	edgedl.me.gvt1.com	
-	
-	
-	
-	(\.|^)delivery\.mp\.microsoft\.com$	
-	
-	
-	
-	definitionupdates.microsoft.com	
-	
-	
-	
-	dns.msftncsi.com	
-	
-	
-	
-	officecdn.microsoft.com	
-	
-	
-	
-	swupmf.adobe.com	
-	
-	
-	
-	rog-live-service.asus.com.cn	
-	
-	
-	
-	gaming-config.asus.com.cn	
-	
-	
-	
-	gc-rog.asus.com.cn	
-	
-	
-	
-	rog-live-service.asus.com	
-	
-	
-	
-	clientstream.launchdarkly.com	
-	
-	
-	
-	config.edge.skype.com	
-	
-	
-	
-	dlcdn-rogboxbu1.asus.com	
-	
-	
-	
-	download.visualstudio.microsoft.com	
-	
-	
-	
-	(\.|^)ethermine\.org$	
-	
-	
-	
-	settings-ssl.xboxlive.com	
-	
-	
-	
-	dlcdn-rogboxbu2.asus.com	
-	
-	
-	
-	update.googleapis.com	
-	
-	
-	
-	microsoft.microsoftofficehub	
-	
-	
-	
-	nexusrules.officeapps.live.com	
-	
-	
-	
-	edge.microsoft.com	
-	
-	
-	
-	mc.corel.com	
-	
-	
-	
-	ipm.corel.com	
-	
-	
-	
-	self.events.data.microsoft.com	
-	
-	
-	
-	teams.events.data.microsoft.com	
-	
-	
-	
-	download.lenovo.com	
-	
-	
-	
-	prod.client.wosc.services.microsoft.com	
-	
-	
-	
-	aus5.mozilla.org	
-	
-	
-	
-	mozilla.org	
-	
-	
-	
-	adobeid-na1.services.adobe.com	
-	
-	
-	
-	sstats.adobe.com	
-	
-	
-	
-	geo2.adobe.com	
-	
-	
-	
-	www.adobe.com	
-	
-	
-	
-	prod.adobegenuine.com	
-	
-	
-	
-	genuine.adobe.com	
-	
-	
-	
-	ffc-icons.oobesaas.adobe.com	
-	
-	
-	
-	na1e-acc.services.adobe.com	
-	
-	
-	
-	server.messaging.adobe.com	
-	
-	
-	
-	ardownload3.adobe.com	
-	
-	
-	
-	armmf.adobe.com	
-	
-	
-	
-	cc-api-data.adobe.io	
-	
-	
-	
-	auth.services.adobe.com	
-	
-	
-	
-	cclibraries-defaults-cdn.adobe.com	
-	
-	
-	
-	corel.com	
-	
-	
-	
-	genuine-software2.autodesk.com	
-	
-	
-	
-	api.genuine.autodesk.com	
-	
-	
-	
-	api.csl.autodesk.com	
-	
-	
-	
-	ipm-aem.autodesk.com
+0.0.0.0 mobile.https://www.google.com/search?q=events.data.microsoft.com
+
+0.0.0.0 download.windowsupdate.com
+
+0.0.0.0 v10.https://www.google.com/search?q=events.data.microsoft.com
+
+0.0.0.0 settings-win.data.microsoft.com
+
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
+
+0.0.0.0 download.gfe.nvidia.com
+
+0.0.0.0 services.gfe.nvidia.com
+
+0.0.0.0 vortex.data.microsoft.com
+
+0.0.0.0 displaycatalog.mp.microsoft.com
+
+0.0.0.0 targetednotifications-tm.trafficmanager.net
+
+0.0.0.0 watson.https://www.google.com/search?q=events.data.microsoft.com
+
+0.0.0.0 wdcp.microsoft.com
+
+0.0.0.0 2.tlu.dl.https://www.google.com/search?q=delivery.mp.microsoft.com
+
+0.0.0.0 array803.https://www.google.com/search?q=prod.do.dsp.mp.microsoft.com
+
+0.0.0.0 au.download.windowsupdate.com
+
+0.0.0.0 az667904.vo.msecnd.net
+
+0.0.0.0 aka.ms
+
+0.0.0.0 array519.https://www.google.com/search?q=prod.do.dsp.mp.microsoft.com
+
+0.0.0.0 cp501.https://www.google.com/search?q=prod.do.dsp.mp.microsoft.com
+
+0.0.0.0 default.exp-tas.com
+
+0.0.0.0 disc501.https://www.google.com/search?q=prod.do.dsp.mp.microsoft.com
+
+0.0.0.0 tlu.dl.https://www.google.com/search?q=delivery.mp.microsoft.com
+
+0.0.0.0 kv801.https://www.google.com/search?q=prod.do.dsp.mp.microsoft.com
+
+0.0.0.0 cp801.https://www.google.com/search?q=prod.do.dsp.mp.microsoft.com
+
+0.0.0.0 disc801.https://www.google.com/search?q=prod.do.dsp.mp.microsoft.com
+
+0.0.0.0 fe2cr.https://www.google.com/search?q=update.microsoft.com
+
+0.0.0.0 geover.https://www.google.com/search?q=prod.do.dsp.mp.microsoft.com
+
+0.0.0.0 licensing.mp.microsoft.com
+
+0.0.0.0 resources.office.net
+
+0.0.0.0 https://www.google.com/search?q=prod.do.dsp.mp.microsoft.com
+
+0.0.0.0 https://www.google.com/search?q=events.data.microsoft.com
+
+0.0.0.0 https://www.google.com/search?q=update.microsoft.com
+
+0.0.0.0 c2r.ts.cdn.office.net
+
+0.0.0.0 https://www.google.com/search?q=ctldl.windowsupdate.com
+
+0.0.0.0 https://www.google.com/search?q=officeclient.microsoft.com
+
+0.0.0.0 https://www.google.com/search?q=ecs.office.com
+
+0.0.0.0 https://www.google.com/search?q=api.iris.microsoft.com
+
+0.0.0.0 oneclient.sfx.ms
+
+0.0.0.0 https://www.google.com/search?q=wdcpalt.microsoft.com
+
+0.0.0.0 www.msftconnecttest.com
+
+0.0.0.0 ocsp.verisign.com
+
+0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+
+0.0.0.0 mrodevicemgr.officeapps.live.com
+
+0.0.0.0 edgedl.me.gvt1.com
+
+0.0.0.0 https://www.google.com/search?q=delivery.mp.microsoft.com
+
+0.0.0.0 definitionupdates.microsoft.com
+
+0.0.0.0 dns.msftncsi.com
+
+0.0.0.0 officecdn.microsoft.com
+
+0.0.0.0 swupmf.adobe.com
+
+0.0.0.0 rog-live-service.asus.com.cn
+
+0.0.0.0 gaming-config.asus.com.cn
+
+0.0.0.0 gc-rog.asus.com.cn
+
+0.0.0.0 rog-live-service.asus.com
+
+0.0.0.0 clientstream.launchdarkly.com
+
+0.0.0.0 config.edge.skype.com
+
+0.0.0.0 dlcdn-rogboxbu1.asus.com
+
+0.0.0.0 download.visualstudio.microsoft.com
+
+0.0.0.0 ethermine.org
+
+0.0.0.0 settings-ssl.xboxlive.com
+
+0.0.0.0 dlcdn-rogboxbu2.asus.com
+
+0.0.0.0 update.googleapis.com
+
+0.0.0.0 microsoft.microsoftofficehub
+
+0.0.0.0 nexusrules.officeapps.live.com
+
+0.0.0.0 edge.microsoft.com
+
+0.0.0.0 mc.corel.com
+
+0.0.0.0 ipm.corel.com
+
+0.0.0.0 self.https://www.google.com/search?q=events.data.microsoft.com
+
+0.0.0.0 teams.https://www.google.com/search?q=events.data.microsoft.com
+
+0.0.0.0 download.lenovo.com
+
+0.0.0.0 prod.client.wosc.services.microsoft.com
+
+0.0.0.0 aus5.mozilla.org
+
+0.0.0.0 mozilla.org
+
+0.0.0.0 adobeid-na1.services.adobe.com
+
+0.0.0.0 sstats.adobe.com
+
+0.0.0.0 geo2.adobe.com
+
+0.0.0.0 www.adobe.com
+
+0.0.0.0 prod.adobegenuine.com
+
+0.0.0.0 genuine.adobe.com
+
+0.0.0.0 ffc-icons.oobesaas.adobe.com
+
+0.0.0.0 na1e-acc.services.adobe.com
+
+0.0.0.0 server.messaging.adobe.com
+
+0.0.0.0 ardownload3.adobe.com
+
+0.0.0.0 armmf.adobe.com
+
+0.0.0.0 cc-api-data.adobe.io
+
+0.0.0.0 auth.services.adobe.com
+
+0.0.0.0 cclibraries-defaults-cdn.adobe.com
+
+0.0.0.0 corel.com
+
+0.0.0.0 genuine-software2.autodesk.com
+
+0.0.0.0 api.genuine.autodesk.com
+
+0.0.0.0 api.csl.autodesk.com
+
+0.0.0.0 ipm-aem.autodesk.com
