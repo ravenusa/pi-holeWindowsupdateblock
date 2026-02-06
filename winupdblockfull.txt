@@ -1,0 +1,12 @@
+||windowsupdate.microsoft.com^
+||update.microsoft.com^
+||windowsupdate.com^
+||download.windowsupdate.com^
+||download.microsoft.com^
+||v4.windowsupdate.microsoft.com^
+||au.download.windowsupdate.com^
+||displaycatalog.mp.microsoft.com^
+||sls.update.microsoft.com^
+||fe2.update.microsoft.com^
+||delivery.mp.microsoft.com^
+||tlu.dl.delivery.mp.microsoft.com^
